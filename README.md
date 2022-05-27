@@ -1,4 +1,5 @@
 ### Hello!!! Sou a Taiane Rodrigues, mas podem me chamar de Tai! 😉
+-🎓 Bachelor in Information Systems
 <div align="center">
   <a href="https://github.com/tairodrigues16">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=tairodrigues16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
