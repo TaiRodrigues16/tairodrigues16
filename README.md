@@ -57,7 +57,7 @@ Busco oportunidades onde possa aplicar meu conhecimento em desenvolvimento Full-
   <a href="https://www.instagram.com/tai_apdarodrigues">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://raw.githubusercontent.com" download>
+  <a href="https://raw.githubusercontent.com/TaiRodrigues16/tairodrigues16/main/curriculo_taiane_rodrigues.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download_CV-black?style=for-the-badge&logo=cv&logoColor=white" />
   </a>
 </div>
