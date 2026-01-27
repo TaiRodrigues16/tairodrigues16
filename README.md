@@ -1,66 +1,70 @@
-# **Taiane Rodrigues**  
-### *Desenvolvedora & Professora de Tecnologia*
-
----
-
-## **Sobre mim**  
-Profissional da área de Tecnologia da Informação com experiência em desenvolvimento e ensino.  
-Graduada em **Sistemas de Informação**, atuo criando projetos, atividades práticas e materiais didáticos para cursos técnicos, além de desenvolver aplicações utilizando diversas tecnologias.
-
-Sou apaixonada por inovação, educação e pela capacidade da tecnologia de transformar realidades.
-
----
-
-## **Competências Técnicas**
-
-<div align="left">
-  <img alt="JavaScript" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
-  <img alt="React" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img alt="HTML5" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img alt="CSS3" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img alt="C#" height="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
-  <img alt="Java" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="PHP" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img alt="SQL Server" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Taiane%20Rodrigues&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  
+  ### 👋 Olá! Eu sou a Taiane.
+  *Desenvolvedora de Software & Professora de Tecnologia*
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&width=435&lines=Transformando+ideias+em+código;Ensinando+tecnologia+com+paixão;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
 </div>
 
 ---
 
-## **Atualmente estudando e desenvolvendo**
-- Práticas avançadas com **JavaScript**  
-- Interface e componentização com **React**  
-- Aplicações e APIs em **Java** e **PHP**  
-- Conteúdos e roteiros para ensino técnico em TI  
+## 📖 Sobre Mim
+
+Profissional da área de TI graduada em **Sistemas de Informação**. Minha carreira é pautada pelo equilíbrio entre o desenvolvimento de aplicações robustas e a missão de educar novos talentos.
+
+- 🎓 Graduada em Sistemas de Informação.
+- 👩‍🏫 Atuo na criação de materiais didáticos e roteiros práticos para ensino técnico.
+- 🚀 Apaixonada por inovação, educação e o impacto social da tecnologia.
 
 ---
 
-## **Estatísticas do GitHub**
+## 🛠️ Tecnologias e Ferramentas
+
+### **Linguagens & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### **Banco de Dados & Ferramentas**
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tairodrigues16&show_icons=true&theme=transparent&hide_title=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairodrigues16&layout=compact&theme=transparent&hide_title=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tairodrigues16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairodrigues16&layout=compact&theme=dracula"/>
+</div>
+
+<br />
+
+<div align="center">
+  <img width="100%" src="https://github.com/tairodrigues16/tairodrigues16/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
 ---
 
-## **Contato**
+## 📫 Vamos nos conectar?
 
-<div align="left">
+<div align="center">
   <a href="mailto:taianeapdarodrigues@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-555?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/taiane-rodrigues/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/tai_apdarodrigues">
-    <img src="https://img.shields.io/badge/Instagram-444?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <img height="80" src="https://github.com/tairodrigues16/tairodrigues16/blob/output/github-contribution-grid-snake.svg"/>
 </div>
