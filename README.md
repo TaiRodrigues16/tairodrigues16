@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7b2cbf&height=200&section=header&text=Taiane%20Rodrigues&fontSize=70&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e3173c&height=200&section=header&font=cursive&text=Taiane%20Rodrigues&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
   
-  ### 👋 Olá! Eu sou a Taiane.
   *Desenvolvedora de Software & Professora de Tecnologia*
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9D4EDD&width=435&lines=Transformando+ideias+em+código;Ensinando+tecnologia+com+paixão;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=e3173c&width=435&lines=Transformando+ideias+em+código;Ensinando+tecnologia+com+paixão;Desenvolvedora+Full+Stack)](https://git.io/typing-svg)
 </div>
 
 ---
@@ -46,14 +45,6 @@ Profissional da área de TI graduada em **Sistemas de Informação**. Minha carr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tairodrigues16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tairodrigues16&layout=compact&theme=dracula"/>
 </div>
-
-<br />
-
-<div align="center">
-  <img width="100%" src="https://github.com/tairodrigues16/tairodrigues16/blob/output/github-contribution-grid-snake.svg"/>
-</div>
-
----
 
 ## 📫 Vamos nos conectar?
 
